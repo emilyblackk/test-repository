@@ -1,7 +1,7 @@
 # Summary
 
 This is the summary for our proposal.
-
+Kelp is cool!!
 # Funding
 
 Information on funding for the project.
